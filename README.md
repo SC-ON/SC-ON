@@ -1,8 +1,22 @@
 - 👋 Hi, I’m @SC-ON
 - 👀 I’m interested in Program
 - 🌱 I’m currently learning CPP
-- 💞️ I’m looking to collaborate on A GOOD PROGRAMMER
-- 📫 How to reach me SC-ON
+
+- mine E-mail:SC-ON@hotmail.com
+
+CN：
+
+我是SC-ON！
+
+或者说是henglizuo（DanJamesThomas）
+
+喜欢编程
+
+END（bushi
+
+大家点个“follow”呗，求求了！
+
+
 
 <!---
 SC-ON/SC-ON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
